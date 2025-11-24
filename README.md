@@ -29,7 +29,28 @@ A collection of Python-based Machine Learning projects covering **regression, cl
 ## 📁 Project Structure
 
 Each project has its own folder with:
+
 - **Jupyter Notebook (`.ipynb`)** – the main code  
 - **Dataset (`.csv`)** – used in the project  
 
-Example:
+---
+
+## 🛠️ How to Use
+
+1. Clone the repository.  
+2. Navigate to the project folder.  
+3. Open the Jupyter Notebook and run the cells.  
+
+**Dependencies:** Python 3.8+, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn (for SMOTE).  
+
+---
+
+## ✍️ Author
+
+Your Name / GitHub handle  
+
+---
+
+## 📜 License
+
+**MIT License** – Free to use, modify, and share. No warranty, just include the original copyright notice.
