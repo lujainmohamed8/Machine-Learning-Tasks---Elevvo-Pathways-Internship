@@ -86,8 +86,7 @@ machine-learning-projects/
 ├── 5-sales-forecasting/
 │   ├── sales_forecast.ipynb
 │   └── data/
-│       └── walmart_sales.csv
-└── requirements.txt
+        └── walmart_sales.csv
 ```
 
 ---
